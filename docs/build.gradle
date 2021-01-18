@@ -19,9 +19,9 @@ repositories {
 // 4. Use the 'Editorial' theme, and set the URL it will have on Github Pages
 orchid {
     theme = "Editorial"
-    baseUrl = "https://username.github.io/project"
+    baseUrl = "https://github.com/rubanskiy/Docsssss"
     version = "1.0.0"
     srcDir  = "src/orchid/resources"
     destDir = "build/docs/orchid"
-    githubToken = project.property("githubToken")
+//    githubToken = project.property("githubToken")
 }

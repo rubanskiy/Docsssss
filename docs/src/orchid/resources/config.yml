@@ -1,10 +1,12 @@
 # docs/src/orchid/resources/config.yml
+
 services:
   publications:
     stages:
-      - type: 'githubPages'
-        username: '[rubanskiy]'
-        repo: '[rubanskiy/testA]'
+      ghPages:
+        branch: gh-pages
+        repo: 'rubanskiy/Docsssss'
+        username: 'rubanskiy'
 
 
   about:
@@ -36,6 +38,8 @@ Editorial:
       node: 'packages'
       asSubmenu: true
       submenuTitle: 'Packages'
+
+
 kotlindoc:
   sourceDirs:
     - './../../../../app/src/main/java'
