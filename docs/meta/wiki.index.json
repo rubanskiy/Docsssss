@@ -1,0 +1,199 @@
+{
+  "ownKey": "wiki",
+  "childrenPages": {"wiki": {
+    "ownKey": "wiki",
+    "childrenPages": {
+      "features": {
+        "ownKey": "features",
+        "childrenPages": {
+          "one": {
+            "ownKey": "one",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/features",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "one",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/features/one"
+              },
+              "next": {
+                "path": "wiki/features",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "two",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/features/two"
+              },
+              "previous": {
+                "path": "wiki",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "features",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/features"
+              },
+              "description": "",
+              "title": "Feature One",
+              "content": "<p>Feature One<\/p>\n"
+            }]
+          },
+          "two": {
+            "ownKey": "two",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/features",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "two",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/features/two"
+              },
+              "next": {
+                "path": "wiki",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "extending",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/extending"
+              },
+              "previous": {
+                "path": "wiki/features",
+                "baseUrl": "https://github.com/rubanskiy/Docsssss",
+                "fileName": "one",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://github.com/rubanskiy/Docsssss/wiki/features/one"
+              },
+              "description": "",
+              "title": "Feature Two",
+              "content": "<p>Feature Two<\/p>\n"
+            }]
+          }
+        },
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "features",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/features"
+          },
+          "next": {
+            "path": "wiki/features",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "one",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/features/one"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/configuration"
+          },
+          "description": "",
+          "title": "Features",
+          "content": "<p>Features<\/p>\n"
+        }]
+      },
+      "configuration": {
+        "ownKey": "configuration",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/configuration"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "features",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/features"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "installation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/installation"
+          },
+          "description": "",
+          "title": "Basic Configuration",
+          "content": "<p>Basic Configuration<\/p>\n"
+        }]
+      },
+      "installation": {
+        "ownKey": "installation",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "installation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/installation"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/configuration"
+          },
+          "description": "",
+          "title": "Installation",
+          "content": "<p>Installation<\/p>\n"
+        }]
+      },
+      "extending": {
+        "ownKey": "extending",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "extending",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/extending"
+          },
+          "previous": {
+            "path": "wiki/features",
+            "baseUrl": "https://github.com/rubanskiy/Docsssss",
+            "fileName": "two",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://github.com/rubanskiy/Docsssss/wiki/features/two"
+          },
+          "description": "",
+          "title": "Extending",
+          "content": "<p>Extending<\/p>\n"
+        }]
+      }
+    },
+    "ownPages": [{
+      "reference": {
+        "path": "",
+        "baseUrl": "https://github.com/rubanskiy/Docsssss",
+        "fileName": "wiki",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://github.com/rubanskiy/Docsssss/wiki"
+      },
+      "description": "",
+      "title": "Wiki",
+      "content": "<html>\n <head><\/head>\n <body>\n  <p>// docs/src/orchid/resources/wiki/summary.md<\/p> \n  <ul> \n   <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/features/one\">Feature One<\/a><\/li> \n     <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/features/two\">Feature Two<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"https://github.com/rubanskiy/Docsssss/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+    }]
+  }}
+}

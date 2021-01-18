@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://github.com/rubanskiy/Docsssss",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://github.com/rubanskiy/Docsssss"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<p>// docs/src/orchid/resources/homepage.md<\/p>\n<hr />\n<p>components:<\/p>\n<ul>\n<li>type: 'pageContent'<\/li>\n<li>type: 'readme'<\/li>\n<\/ul>\n<hr />\n<h1 id=\"kotlin-project\"><a href=\"#kotlin-project\" id=\"kotlin-project\" class=\"anchor\"><\/a>Kotlin Project<\/h1>\n<p>This is a short description of this project.<\/p>\n<h1 id=\"kotlinproject\"><a href=\"#kotlinproject\" id=\"kotlinproject\" class=\"anchor\"><\/a>KotlinProject<\/h1>\n<p>This is a short description of this project.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://github.com/rubanskiy/Docsssss",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "https://github.com/rubanskiy/Docsssss/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}
