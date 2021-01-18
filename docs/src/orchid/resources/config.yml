@@ -1,0 +1,41 @@
+# docs/src/orchid/resources/config.yml
+services:
+  publications:
+    stages:
+      - type: 'githubPages'
+        username: '[rubanskiy]'
+        repo: '[rubanskiy/testA]'
+
+
+  about:
+    siteName: Kotlin Project
+    siteDescription: This is a short description of this project.
+
+Editorial:
+  primaryColor: '#DE9149'
+  legacySearch: false
+  social:
+    github: 'username/project'
+  metaComponents:
+    - type: 'orchidSearch'
+  menu:
+    - type: 'separator'
+      title: 'Wiki'
+    - type: 'wiki'
+    - type: 'page'
+      itemId: 'Changelog'
+    - type: 'separator'
+      title: 'API Docs'
+    - type: 'sourcedocPages'
+      moduleType: 'kotlindoc'
+      node: 'classes'
+      asSubmenu: true
+      submenuTitle: 'Classes'
+    - type: 'sourcedocPages'
+      moduleType: 'kotlindoc'
+      node: 'packages'
+      asSubmenu: true
+      submenuTitle: 'Packages'
+kotlindoc:
+  sourceDirs:
+    - './../../../../app/src/main/java'
