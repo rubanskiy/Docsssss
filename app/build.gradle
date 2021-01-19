@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
 }
+apply plugin: 'org.jetbrains.dokka-android'
 
 android {
     compileSdkVersion 30
@@ -30,6 +31,10 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    dokka {
+        outputFormat = 'gfm'
+        outputDirectory = "$buildDir/javadoc"
+    }
 }
 
 dependencies {
@@ -44,4 +49,5 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    classpath "org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.17"
 }

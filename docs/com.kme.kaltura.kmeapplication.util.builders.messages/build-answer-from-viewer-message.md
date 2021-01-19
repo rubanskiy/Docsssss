@@ -1,0 +1,5 @@
+[kmeApp](../index.md) / [com.kme.kaltura.kmeapplication.util.builders.messages](index.md) / [buildAnswerFromViewerMessage](./build-answer-from-viewer-message.md)
+
+# buildAnswerFromViewerMessage
+
+`fun buildAnswerFromViewerMessage(roomId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, userId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, companyId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, sdpType: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, sdpDescription: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, requestedUserIdStream: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, mediaServerId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`): KmeStreamingModuleMessage<SdpAnswerToFromViewer>`

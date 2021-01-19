@@ -1,0 +1,5 @@
+[kmeApp](../../index.md) / [com.kme.kaltura.kmeapplication.util.extensions](../index.md) / [android.content.Context](index.md) / [radioDialog](./radio-dialog.md)
+
+# radioDialog
+
+`inline fun `[`Context`](https://developer.android.com/reference/android/content/Context.html)`.radioDialog(titleResource: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)` = 0, messageResource: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)` = 0, variants: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>, func: `[`AlertDialogHelper`](../-alert-dialog-helper/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): AlertDialog`

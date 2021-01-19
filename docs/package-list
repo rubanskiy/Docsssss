@@ -1,0 +1,66 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+$dokka.location:com.kme.kaltura.kmeapplication.util$toSingleEvent(androidx.lifecycle.LiveData((com.kme.kaltura.kmeapplication.util.toSingleEvent.T)))com.kme.kaltura.kmeapplication.util/androidx.lifecycle.-live-data/to-single-event.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$addFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/add-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$addFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment, kotlin.Int, kotlin.Boolean)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/add-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$alert(android.content.Context, kotlin.CharSequence, kotlin.CharSequence, kotlin.Boolean, kotlin.Boolean, kotlin.Function1((com.kme.kaltura.kmeapplication.util.extensions.AlertDialogHelper, kotlin.Unit)))com.kme.kaltura.kmeapplication.util.extensions/android.content.-context/alert.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$alert(android.content.Context, kotlin.Int, kotlin.Int, kotlin.Boolean, kotlin.Boolean, kotlin.Function1((com.kme.kaltura.kmeapplication.util.extensions.AlertDialogHelper, kotlin.Unit)))com.kme.kaltura.kmeapplication.util.extensions/android.content.-context/alert.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$defineNewDeviceStateByAdmin(com.kme.kaltura.kmesdk.ws.message.type.KmeMediaDeviceState, kotlin.Boolean)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.type.-kme-media-device-state/define-new-device-state-by-admin.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$defineNewDeviceStateByOwn(com.kme.kaltura.kmesdk.ws.message.type.KmeMediaDeviceState)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.type.-kme-media-device-state/define-new-device-state-by-own.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$getCurrentFragment(androidx.appcompat.app.AppCompatActivity)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/get-current-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$getFragmentById(androidx.appcompat.app.AppCompatActivity, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/get-fragment-by-id.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$getFragmentByTag(androidx.appcompat.app.AppCompatActivity, kotlin.String)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/get-fragment-by-tag.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$glide(android.widget.ImageView, kotlin.Int, kotlin.Int, kotlin.Function1((com.bumptech.glide.RequestBuilder((android.graphics.drawable.Drawable)), )))com.kme.kaltura.kmeapplication.util.extensions/android.widget.-image-view/glide.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$glide(android.widget.ImageView, kotlin.String, kotlin.Int, kotlin.Function1((com.bumptech.glide.RequestBuilder((android.graphics.drawable.Drawable)), )))com.kme.kaltura.kmeapplication.util.extensions/android.widget.-image-view/glide.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$gone(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/gone.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$goneIfEmpty(android.widget.RadioGroup)com.kme.kaltura.kmeapplication.util.extensions/android.widget.-radio-group/gone-if-empty.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$goneIfTextEmpty(android.widget.TextView)com.kme.kaltura.kmeapplication.util.extensions/android.widget.-text-view/gone-if-text-empty.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$hideIfExist(androidx.appcompat.app.AlertDialog)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-alert-dialog/hide-if-exist.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$hideKeyboard(androidx.appcompat.app.AppCompatActivity)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/hide-keyboard.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$inTransaction(androidx.fragment.app.FragmentManager, kotlin.Function1((androidx.fragment.app.FragmentTransaction, )))com.kme.kaltura.kmeapplication.util.extensions/androidx.fragment.app.-fragment-manager/in-transaction.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$invisible(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/invisible.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$isGone(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/is-gone.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$isInvisible(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/is-invisible.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$isModerator(com.kme.kaltura.kmesdk.ws.message.participant.KmeParticipant)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.participant.-kme-participant/is-moderator.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$isVisible(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/is-visible.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$mapConversation(com.kme.kaltura.kmesdk.ws.message.chat.KmeConversation, com.kme.kaltura.kmeapplication.util.TimeUtil)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.chat.-kme-conversation/map-conversation.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$mapConversations(kotlin.collections.List((com.kme.kaltura.kmesdk.ws.message.chat.KmeConversation)), com.kme.kaltura.kmeapplication.util.TimeUtil)com.kme.kaltura.kmeapplication.util.extensions/kotlin.collections.-list/map-conversations.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$mapMessage(com.kme.kaltura.kmesdk.ws.message.chat.KmeChatMessage, com.kme.kaltura.kmeapplication.util.TimeUtil)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.chat.-kme-chat-message/map-message.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$mapMessage(com.kme.kaltura.kmesdk.ws.message.module.KmeChatModuleMessage.ReceiveMessagePayload, com.kme.kaltura.kmeapplication.util.TimeUtil)com.kme.kaltura.kmeapplication.util.extensions/com.kme.kaltura.kmesdk.ws.message.module.-kme-chat-module-message.-receive-message-payload/map-message.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$mapMessages(kotlin.collections.List((com.kme.kaltura.kmesdk.ws.message.chat.KmeChatMessage)), com.kme.kaltura.kmeapplication.util.TimeUtil)com.kme.kaltura.kmeapplication.util.extensions/kotlin.collections.-list/map-messages.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$observeOnce(androidx.lifecycle.LiveData((com.kme.kaltura.kmeapplication.util.extensions.observeOnce.T)), androidx.lifecycle.LifecycleOwner, androidx.lifecycle.Observer((com.kme.kaltura.kmeapplication.util.extensions.observeOnce.T)))com.kme.kaltura.kmeapplication.util.extensions/androidx.lifecycle.-live-data/observe-once.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$parseRoomAlias(kotlin.String)com.kme.kaltura.kmeapplication.util.extensions/kotlin.-string/parse-room-alias.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$popBackStack(androidx.appcompat.app.AppCompatActivity)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/pop-back-stack.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$popBackStackInclusive(androidx.appcompat.app.AppCompatActivity)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/pop-back-stack-inclusive.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$popup(android.view.View, kotlin.Int, kotlin.Boolean, kotlin.Int, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/popup.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$radioDialog(android.content.Context, kotlin.Int, kotlin.Int, kotlin.collections.List((kotlin.String)), kotlin.Function1((com.kme.kaltura.kmeapplication.util.extensions.AlertDialogHelper, kotlin.Unit)))com.kme.kaltura.kmeapplication.util.extensions/android.content.-context/radio-dialog.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$removeAll(android.text.SpannableStringBuilder, kotlin.Int, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/android.text.-spannable-string-builder/remove-all.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$removeFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/remove-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$removeFragment(androidx.appcompat.app.AppCompatActivity, kotlin.String)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/remove-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$removeOne(android.text.SpannableStringBuilder, kotlin.Int, kotlin.Int, java.lang.Class((kotlin.Any)))com.kme.kaltura.kmeapplication.util.extensions/android.text.-spannable-string-builder/remove-one.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$removeStyle(android.text.SpannableStringBuilder, kotlin.Int, kotlin.Int, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/android.text.-spannable-string-builder/remove-style.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$replaceFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment, kotlin.Int)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/replace-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$replaceFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment, kotlin.Int, kotlin.Boolean)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/replace-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$replaceFragment(androidx.appcompat.app.AppCompatActivity, androidx.fragment.app.Fragment, kotlin.Int, kotlin.Boolean, kotlin.Boolean)com.kme.kaltura.kmeapplication.util.extensions/androidx.appcompat.app.-app-compat-activity/replace-fragment.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$showKeyboard(android.content.Context)com.kme.kaltura.kmeapplication.util.extensions/android.content.-context/show-keyboard.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$toNonNull(kotlin.String, kotlin.String)com.kme.kaltura.kmeapplication.util.extensions/kotlin.-string/to-non-null.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$updateChatItemsStyle(kotlin.collections.List((com.kme.kaltura.kmeapplication.data.MappedChatMessage)))com.kme.kaltura.kmeapplication.util.extensions/kotlin.collections.-list/update-chat-items-style.md
+$dokka.location:com.kme.kaltura.kmeapplication.util.extensions$visible(android.view.View)com.kme.kaltura.kmeapplication.util.extensions/android.view.-view/visible.md
+com.kme.kaltura.kmeapplication
+com.kme.kaltura.kmeapplication.data
+com.kme.kaltura.kmeapplication.di
+com.kme.kaltura.kmeapplication.prefs
+com.kme.kaltura.kmeapplication.util
+com.kme.kaltura.kmeapplication.util.builders.messages
+com.kme.kaltura.kmeapplication.util.extensions
+com.kme.kaltura.kmeapplication.util.widget
+com.kme.kaltura.kmeapplication.view
+com.kme.kaltura.kmeapplication.view.activity
+com.kme.kaltura.kmeapplication.view.adapter
+com.kme.kaltura.kmeapplication.view.adapter.viewholder
+com.kme.kaltura.kmeapplication.view.fragment
+com.kme.kaltura.kmeapplication.view.fragment.content
+com.kme.kaltura.kmeapplication.view.view.content.controls
+com.kme.kaltura.kmeapplication.view.view.note
+com.kme.kaltura.kmeapplication.viewmodel
+com.kme.kaltura.kmeapplication.viewmodel.content

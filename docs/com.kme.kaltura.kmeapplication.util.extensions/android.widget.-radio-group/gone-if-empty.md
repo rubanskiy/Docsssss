@@ -1,0 +1,5 @@
+[kmeApp](../../index.md) / [com.kme.kaltura.kmeapplication.util.extensions](../index.md) / [android.widget.RadioGroup](index.md) / [goneIfEmpty](./gone-if-empty.md)
+
+# goneIfEmpty
+
+`fun `[`RadioGroup`](https://developer.android.com/reference/android/widget/RadioGroup.html)`?.goneIfEmpty(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
