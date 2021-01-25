@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeChatModuleMessage](../index.md) / [SendMessagePayload](index.md) / [metadata](./metadata.md)
+
+# metadata
+
+`@SerializedName("message_metadata") var metadata: `[`KmeChatMessage`](../../../com.kme.kaltura.kmesdk.ws.message.chat/-kme-chat-message/index.md)`?`

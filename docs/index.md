@@ -1,27 +1,39 @@
-[kmeApp](./index.md)
+[kmeSdk](./index.md)
 
 ### Packages
 
 | Name | Summary |
 |---|---|
-| [com.kme.kaltura.kmeapplication](com.kme.kaltura.kmeapplication/index.md) |  |
-| [com.kme.kaltura.kmeapplication.data](com.kme.kaltura.kmeapplication.data/index.md) |  |
-| [com.kme.kaltura.kmeapplication.di](com.kme.kaltura.kmeapplication.di/index.md) |  |
-| [com.kme.kaltura.kmeapplication.prefs](com.kme.kaltura.kmeapplication.prefs/index.md) |  |
-| [com.kme.kaltura.kmeapplication.util](com.kme.kaltura.kmeapplication.util/index.md) |  |
-| [com.kme.kaltura.kmeapplication.util.builders.messages](com.kme.kaltura.kmeapplication.util.builders.messages/index.md) |  |
-| [com.kme.kaltura.kmeapplication.util.extensions](com.kme.kaltura.kmeapplication.util.extensions/index.md) |  |
-| [com.kme.kaltura.kmeapplication.util.widget](com.kme.kaltura.kmeapplication.util.widget/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view](com.kme.kaltura.kmeapplication.view/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.activity](com.kme.kaltura.kmeapplication.view.activity/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.adapter](com.kme.kaltura.kmeapplication.view.adapter/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.adapter.viewholder](com.kme.kaltura.kmeapplication.view.adapter.viewholder/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.fragment](com.kme.kaltura.kmeapplication.view.fragment/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.fragment.content](com.kme.kaltura.kmeapplication.view.fragment.content/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.view.content.controls](com.kme.kaltura.kmeapplication.view.view.content.controls/index.md) |  |
-| [com.kme.kaltura.kmeapplication.view.view.note](com.kme.kaltura.kmeapplication.view.view.note/index.md) |  |
-| [com.kme.kaltura.kmeapplication.viewmodel](com.kme.kaltura.kmeapplication.viewmodel/index.md) |  |
-| [com.kme.kaltura.kmeapplication.viewmodel.content](com.kme.kaltura.kmeapplication.viewmodel.content/index.md) |  |
+| [com.kme.kaltura.kmesdk](com.kme.kaltura.kmesdk/index.md) |  |
+| [com.kme.kaltura.kmesdk.content.playkit](com.kme.kaltura.kmesdk.content.playkit/index.md) |  |
+| [com.kme.kaltura.kmesdk.content.slides](com.kme.kaltura.kmesdk.content.slides/index.md) |  |
+| [com.kme.kaltura.kmesdk.controller](com.kme.kaltura.kmesdk.controller/index.md) |  |
+| [com.kme.kaltura.kmesdk.controller.impl](com.kme.kaltura.kmesdk.controller.impl/index.md) |  |
+| [com.kme.kaltura.kmesdk.di](com.kme.kaltura.kmesdk.di/index.md) |  |
+| [com.kme.kaltura.kmesdk.prefs](com.kme.kaltura.kmesdk.prefs/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest](com.kme.kaltura.kmesdk.rest/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.request](com.kme.kaltura.kmesdk.rest.request/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response](com.kme.kaltura.kmesdk.rest.response/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.metadata](com.kme.kaltura.kmesdk.rest.response.metadata/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.room](com.kme.kaltura.kmesdk.rest.response.room/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.room.notes](com.kme.kaltura.kmesdk.rest.response.room.notes/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.room.settings](com.kme.kaltura.kmesdk.rest.response.room.settings/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.signin](com.kme.kaltura.kmesdk.rest.response.signin/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.response.user](com.kme.kaltura.kmesdk.rest.response.user/index.md) |  |
+| [com.kme.kaltura.kmesdk.rest.service](com.kme.kaltura.kmesdk.rest.service/index.md) |  |
+| [com.kme.kaltura.kmesdk.service](com.kme.kaltura.kmesdk.service/index.md) |  |
+| [com.kme.kaltura.kmesdk.webrtc.audio](com.kme.kaltura.kmesdk.webrtc.audio/index.md) |  |
+| [com.kme.kaltura.kmesdk.webrtc.peerconnection](com.kme.kaltura.kmesdk.webrtc.peerconnection/index.md) |  |
+| [com.kme.kaltura.kmesdk.webrtc.peerconnection.impl](com.kme.kaltura.kmesdk.webrtc.peerconnection.impl/index.md) |  |
+| [com.kme.kaltura.kmesdk.webrtc.stats](com.kme.kaltura.kmesdk.webrtc.stats/index.md) |  |
+| [com.kme.kaltura.kmesdk.webrtc.view](com.kme.kaltura.kmesdk.webrtc.view/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws](com.kme.kaltura.kmesdk.ws/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message](com.kme.kaltura.kmesdk.ws.message/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message.chat](com.kme.kaltura.kmesdk.ws.message.chat/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message.module](com.kme.kaltura.kmesdk.ws.message.module/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message.participant](com.kme.kaltura.kmesdk.ws.message.participant/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message.type](com.kme.kaltura.kmesdk.ws.message.type/index.md) |  |
+| [com.kme.kaltura.kmesdk.ws.message.type.permissions](com.kme.kaltura.kmesdk.ws.message.type.permissions/index.md) |  |
 
 ### Index
 

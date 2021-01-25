@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeParticipantsModuleMessage](../index.md) / [UserMediaStateInitPayload](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`UserMediaStateInitPayload(userId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, roomId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, companyId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, liveMediaState: `[`KmeMediaDeviceState`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-media-device-state/index.md)`? = null, micState: `[`KmeMediaDeviceState`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-media-device-state/index.md)`? = null, webcamState: `[`KmeMediaDeviceState`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-media-device-state/index.md)`? = null)`

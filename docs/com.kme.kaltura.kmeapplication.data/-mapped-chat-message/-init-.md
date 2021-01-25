@@ -1,5 +1,0 @@
-[kmeApp](../../index.md) / [com.kme.kaltura.kmeapplication.data](../index.md) / [MappedChatMessage](index.md) / [&lt;init&gt;](./-init-.md)
-
-# &lt;init&gt;
-
-`MappedChatMessage(user: `[`MappedUser`](../-mapped-user/index.md)`, messageId: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, message: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, createdAt: `[`Date`](https://developer.android.com/reference/java/util/Date.html)`, conversationId: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, status: `[`ChatMessageStatus`](../-chat-message-status/index.md)`? = null, replyMessage: `[`MappedChatMessage`](index.md)`? = null, replyAll: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)` = false, styleType: `[`StyleType`](-style-type/index.md)` = StyleType.END_MESSAGE_STYLE)`

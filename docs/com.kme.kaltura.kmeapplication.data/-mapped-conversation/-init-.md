@@ -1,5 +1,0 @@
-[kmeApp](../../index.md) / [com.kme.kaltura.kmeapplication.data](../index.md) / [MappedConversation](index.md) / [&lt;init&gt;](./-init-.md)
-
-# &lt;init&gt;
-
-`MappedConversation(conversationId: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, conversationName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, avatar: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`?, participants: `[`MutableList`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/index.html)`<`[`MappedUser`](../-mapped-user/index.md)`>, lastChatMessage: `[`MappedChatMessage`](../-mapped-chat-message/index.md)`?, unreadCount: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`?, conversationType: KmeConversationType?, isSystem: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`? = null, hasAccess: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`? = null)`

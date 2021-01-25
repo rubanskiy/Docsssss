@@ -1,0 +1,5 @@
+[kmeSdk](../../index.md) / [com.kme.kaltura.kmesdk.ws.message.chat](../index.md) / [KmeConversation](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`KmeConversation(id: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, lastMessage: `[`KmeChatMessage`](../-kme-chat-message/index.md)`? = null, name: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, conversationType: `[`KmeConversationType`](../../com.kme.kaltura.kmesdk.ws.message.type/-kme-conversation-type/index.md)`? = null, isSystem: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`? = null, avatar: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, unreadMessages: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`? = null, firstUser: `[`User`](-user/index.md)`? = null, secondUser: `[`User`](-user/index.md)`? = null)`

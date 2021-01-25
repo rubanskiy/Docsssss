@@ -1,0 +1,5 @@
+[kmeSdk](../../index.md) / [com.kme.kaltura.kmesdk.rest.response.user](../index.md) / [KmeUserInfoData](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`KmeUserInfoData(id: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, guestId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, firstName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, lastName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, fullName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, lang: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, avatar: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, userCompanies: `[`UserCompanies`](-user-companies/index.md)`? = null)`

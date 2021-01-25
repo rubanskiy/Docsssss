@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeRoomNotesMessage](../index.md) / [NoteEventData](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`NoteEventData(noteId: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, noteName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, noteNewName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`? = null, isSubscribeToNote: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`? = null, manifest: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>? = null, deltas: `[`NoteEditKeyValueContent`](../-note-edit-key-value-content/index.md)`? = null, editor: `[`NoteEditor`](../-note-editor/index.md)`? = null)`

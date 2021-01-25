@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeParticipantsModuleMessage](../index.md) / [UserMediaStateChangedPayload](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`UserMediaStateChangedPayload(userId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, roomId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, companyId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, mediaStateType: `[`KmeMediaStateType`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-media-state-type/index.md)`? = null, stateValue: `[`KmeMediaDeviceState`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-media-device-state/index.md)`? = null)`

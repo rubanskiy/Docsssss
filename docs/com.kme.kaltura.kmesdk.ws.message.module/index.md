@@ -1,0 +1,20 @@
+[kmeSdk](../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](./index.md)
+
+## Package com.kme.kaltura.kmesdk.ws.message.module
+
+### Types
+
+| Name | Summary |
+|---|---|
+| [KmeActiveContentModuleMessage](-kme-active-content-module-message/index.md) | `class KmeActiveContentModuleMessage<T : `[`ActiveContentPayload`](-kme-active-content-module-message/-active-content-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-active-content-module-message/index.md#T)`>` |
+| [KmeBannersModuleMessage](-kme-banners-module-message/index.md) | `class KmeBannersModuleMessage<T : `[`BannersPayload`](-kme-banners-module-message/-banners-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-banners-module-message/index.md#T)`>` |
+| [KmeChatModuleMessage](-kme-chat-module-message/index.md) | `class KmeChatModuleMessage<T : `[`ChatPayload`](-kme-chat-module-message/-chat-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-chat-module-message/index.md#T)`>` |
+| [KmeDesktopShareModuleMessage](-kme-desktop-share-module-message/index.md) | `class KmeDesktopShareModuleMessage<T : `[`DesktopSharePayload`](-kme-desktop-share-module-message/-desktop-share-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-desktop-share-module-message/index.md#T)`>` |
+| [KmeParticipantsModuleMessage](-kme-participants-module-message/index.md) | `class KmeParticipantsModuleMessage<T : `[`ParticipantsPayload`](-kme-participants-module-message/-participants-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-participants-module-message/index.md#T)`>` |
+| [KmeRoomInitModuleMessage](-kme-room-init-module-message/index.md) | `class KmeRoomInitModuleMessage<T : `[`RoomInitPayload`](-kme-room-init-module-message/-room-init-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-room-init-module-message/index.md#T)`>` |
+| [KmeRoomNotesMessage](-kme-room-notes-message/index.md) | `class KmeRoomNotesMessage<T : `[`NotesPayload`](-kme-room-notes-message/-notes-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-room-notes-message/index.md#T)`>` |
+| [KmeRoomRecordingMessage](-kme-room-recording-message/index.md) | `class KmeRoomRecordingMessage<T : `[`RecordingPayload`](-kme-room-recording-message/-recording-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-room-recording-message/index.md#T)`>` |
+| [KmeRoomSettingsModuleMessage](-kme-room-settings-module-message/index.md) | `class KmeRoomSettingsModuleMessage<T : `[`SettingsPayload`](-kme-room-settings-module-message/-settings-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-room-settings-module-message/index.md#T)`>` |
+| [KmeSlidesPlayerModuleMessage](-kme-slides-player-module-message/index.md) | `class KmeSlidesPlayerModuleMessage<T : `[`SlidePlayerPayload`](-kme-slides-player-module-message/-slide-player-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-slides-player-module-message/index.md#T)`>` |
+| [KmeStreamingModuleMessage](-kme-streaming-module-message/index.md) | `class KmeStreamingModuleMessage<T : `[`StreamingPayload`](-kme-streaming-module-message/-streaming-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-streaming-module-message/index.md#T)`>` |
+| [KmeVideoModuleMessage](-kme-video-module-message/index.md) | `class KmeVideoModuleMessage<T : `[`VideoPayload`](-kme-video-module-message/-video-payload/index.md)`> : `[`KmeMessage`](../com.kme.kaltura.kmesdk.ws.message/-kme-message/index.md)`<`[`T`](-kme-video-module-message/index.md#T)`>` |

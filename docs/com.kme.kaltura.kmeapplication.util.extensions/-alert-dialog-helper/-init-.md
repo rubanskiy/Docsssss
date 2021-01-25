@@ -1,5 +1,0 @@
-[kmeApp](../../index.md) / [com.kme.kaltura.kmeapplication.util.extensions](../index.md) / [AlertDialogHelper](index.md) / [&lt;init&gt;](./-init-.md)
-
-# &lt;init&gt;
-
-`AlertDialogHelper(context: `[`Context`](https://developer.android.com/reference/android/content/Context.html)`, title: `[`CharSequence`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-char-sequence/index.html)`?, message: `[`CharSequence`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-char-sequence/index.html)`?, withPassInput: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`, withTextInput: `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`, variants: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>?)`

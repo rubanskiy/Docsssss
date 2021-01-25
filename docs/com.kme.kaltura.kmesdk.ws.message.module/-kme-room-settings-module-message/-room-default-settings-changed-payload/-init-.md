@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeRoomSettingsModuleMessage](../index.md) / [RoomDefaultSettingsChangedPayload](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`RoomDefaultSettingsChangedPayload(userId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, roomId: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`? = null, permissionsValue: `[`KmePermissionValue`](../../../com.kme.kaltura.kmesdk.ws.message.type.permissions/-kme-permission-value/index.md)`? = null, moduleName: `[`KmePermissionModule`](../../../com.kme.kaltura.kmesdk.ws.message.type.permissions/-kme-permission-module/index.md)`? = null, permissionsKey: `[`KmePermissionKey`](../../../com.kme.kaltura.kmesdk.ws.message.type.permissions/-kme-permission-key/index.md)`? = null)`

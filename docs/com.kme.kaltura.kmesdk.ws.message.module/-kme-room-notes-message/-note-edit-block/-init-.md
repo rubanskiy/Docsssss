@@ -1,0 +1,5 @@
+[kmeSdk](../../../index.md) / [com.kme.kaltura.kmesdk.ws.message.module](../../index.md) / [KmeRoomNotesMessage](../index.md) / [NoteEditBlock](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`NoteEditBlock(key: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, text: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, type: `[`KmeNoteBlockType`](../../../com.kme.kaltura.kmesdk.ws.message.type/-kme-note-block-type/index.md)`, depth: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, inlineStyleRanges: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`NoteInlineStyle`](../-note-inline-style/index.md)`>, entityRanges: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`NoteInlineStyle`](../-note-inline-style/index.md)`> = arrayListOf(), data: `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`? = null)`
